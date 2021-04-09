@@ -1,4 +1,5 @@
 syntax: glob
+*.code-workspace
 *.db
 *.egg-info
 *.log
